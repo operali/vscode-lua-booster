@@ -7,4 +7,4 @@ Boost your productivity and happiness when coding with Lua.
 - open lint folder and put your lint files here
 
 # roadmap
-- test frame work for lints
+- test framework for lints
