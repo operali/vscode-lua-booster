@@ -1,10 +1,10 @@
 # vscode-lua-booster
 Boost your productivity and happiness when coding with Lua.
 
-# how to import your lints
-- you should write unit test & example for you lints 
-- `ctrl+shift+p` and input `lua booster open lint` (you just need to input part of text, like `booster lint`)
-- open lint folder and put your lint files here
+# How to import your lints
+- you should write unit tests & examples for your lints 
+- `ctrl+shift+p` and type `lua booster open lint` (you just need to type part or CMD, like `booster lint`)
+- open the lint folder and put your lint files here
 
 # roadmap
 - test framework for lints
